@@ -71,18 +71,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### 3. 探索Jupyter笔记本
-
-```bash
-# 启动Jupyter
-jupyter notebook
-
-# 依次查看以下笔记本：
-# 1. notebooks/01_data_exploration.ipynb     - 数据探索
-# 2. notebooks/02_data_preprocessing.ipynb   - 数据预处理  
-# 3. notebooks/03_model_training.ipynb       - 模型训练
-```
-
 ## 📊 核心功能
 
 ### 🔍 数据分析
@@ -225,7 +213,7 @@ predictions = trainer.best_model.predict(processed_features)
 
 ## 👨‍💻 作者
 
-**你的姓名** - [@Powfu-zwx](https://github.com/Powfu-zwx)
+- [@Powfu-zwx](https://github.com/Powfu-zwx)
 
 - 📧 Email: 1011046478@qq.com
 - 🐙 GitHub: [github.com/Powfu-zwx](https://github.com/Powfu-zwx)
